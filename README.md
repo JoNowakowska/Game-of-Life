@@ -1,1 +1,3 @@
-# This is one of the first apps I made. 
+# Game of life is one of the first apps I made - mostly to practice basics of Python and GUI (using tkinter).
+# This is a Convey's game of life which acts according to specific rules: a cell (a black dot) dies if it has 0,1 or 4 neighbours, keep living if it has 2 or 3 neighbors. A new cell is born in an empty space if it is surrounded by 3 other cells. 
+# To run the game, run the view.py file - the GUI window and cmd will open. In the GUI window click 'Start' button to run the app. Press 'Pause' to pause. Press 'Wybierz wzorzec' to select a start pattern from a drop-down menu. Click 'Wyczyść' to clear the window. 
